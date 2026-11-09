@@ -15,7 +15,7 @@ DBTR-AGF is a dual-branch architecture:
 
 ## Files
 - `preprocessing.py`: Extracts CWT/STFT features and builds the HDF5 dataset.
-- `main_pipeline.py`: Model definition, training, HMM, and evaluation protocols.
+- `testModel.py`: Model definition, training, HMM, and evaluation protocols.
 
 ## Requirements
 ```bash
